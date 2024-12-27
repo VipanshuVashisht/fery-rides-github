@@ -1,0 +1,5 @@
+[
+  { "rideId": "1", "distance": 10, "fare": 100 },
+  { "rideId": "2", "distance": 20, "fare": 200 },
+  { "rideId": "3", "distance": 15, "fare": 150 }
+]
